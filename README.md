@@ -36,7 +36,7 @@
 
 ## 🌌 **About Me**  
 
-Hi, I’m **Harshit Mishra**, a passionate **Software Developer** and **Self thoght Ethical Hacker** dedicated to:  
+Hi, I’m **Harshit Mishra**, a passionate **Software Developer** and **Self-Taught Ethical Hacker** dedicated to:  
 - 💡 Building Secure Software Applications  
 - 🔒 Enhancing Cybersecurity Awareness  
 - 🛠️ Innovating Solutions to Real-World Problems  
@@ -69,7 +69,7 @@ Hi, I’m **Harshit Mishra**, a passionate **Software Developer** and **Self tho
    An astrology-based **love calculator** .  
 
 3. **[Impress Your Crush](https://astrolove.vercel.app/single.html)**  
-    personalized proposals in a developer’s style.  
+    Personalized proposals in a developer’s style.  
 
 ---
 
@@ -102,8 +102,16 @@ Hi, I’m **Harshit Mishra**, a passionate **Software Developer** and **Self tho
 
 ---
 
+## 🏅 **Certifications**  
+
+- ![Cyber Security Fundamentals]([https://images.credly.com/size/160x160/images/0462da0b-41f3-4542-b312-b2fc69869129/Getting_20Started_20With_20CybersecurityBadge.png](https://images.credly.com/size/220x220/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png))  
+  **[Getting Started with Cybersecurity]([https://www.credly.com/badges/0462da0b-41f3-4542-b312-b2fc69869129/public_url](https://www.credly.com/badges/4298d4e7-7f68-42d8-b71d-d0c4222b4fb1/public_url))**  
+
+- ![Getting Started With Cybersecurity](https://images.credly.com/size/160x160/images/0462da0b-41f3-4542-b312-b2fc69869129/Getting_20Started_20With_20CybersecurityBadge.png)  
+  **[Getting Started with Cybersecurity](https://www.credly.com/badges/0462da0b-41f3-4542-b312-b2fc69869129/public_url)**  
+
+---
+
 > **_"Hack the Code. Secure the World."_**  
 
---- 
-
-
+---
