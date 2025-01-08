@@ -7,7 +7,7 @@
 > **_"Code Securely, Innovate Boldly."_**  
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Software+Developer+%26+Ethical+Hacker;Creating+Secure+and+Innovative+Solutions;Exploring+the+Intersection+of+Code+%26+Cybersecurity)  
-![Stars](https://img.shields.io/github/stars/mishra9759harshit/repo)
+![Stars](https://img.shields.io/github/stars/mishra9759harshit/[repo](https://github.com/mishra9759harshit/self-intro))
 
 ---
 
