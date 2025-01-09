@@ -2,7 +2,7 @@
 
 # 🖥️ **Harshit Mishra: Developer**  
 
-![Header Image](https://via.placeholder.com/1200x400?text=Developer+%26+Ethical+Hacker&bg=000000&fg=00FF00)  
+![Header Image](https://github.com/mishra9759harshit/githost/blob/main/images%20(4).jpeg?raw=true)  
 
 > **_"Code Securely, Innovate Boldly."_**  
 
