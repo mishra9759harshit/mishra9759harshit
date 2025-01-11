@@ -2,7 +2,33 @@
 
 # 🖥️ **Harshit Mishra: Developer & Ethical Hacker**  
 
-![Header Image](https://github.com/mishra9759harshit/githost/blob/main/images%20(4).jpeg?raw=true)  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Keyframe animation for the header image */
+        @keyframes headerAnimation {
+            0% { transform: scale(1); opacity: 0; }
+            50% { transform: scale(1.1); opacity: 1; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+
+   
+        .header-image {
+            width: 100%;
+            height: auto;
+            animation: headerAnimation 3s ease-in-out infinite;
+        }
+    </style>
+    <title>Header Animation</title>
+</head>
+<body>
+    <img src="https://github.com/mishra9759harshit/githost/blob/main/images%20(4).jpeg?raw=true" alt="Header Image" class="header-image">
+</body>
+</html>
+ 
 
 > **_"Code Securely, Innovate Boldly."_**  
 
