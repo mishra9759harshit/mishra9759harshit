@@ -1,5 +1,3 @@
-Here's an updated and visually enhanced version of your profile with badges, icons, and improved formatting:  
-
 ---
 
 # 🖥️ **Harshit Mishra: Developer & Ethical Hacker**  
