@@ -125,5 +125,7 @@ I believe in **secure innovation**, combining cutting-edge software development 
 ---
 
 > **_"Hack the Code. Secure the World."_**
-
+---
+<meta name="description" content="Harshit Mishra: Software Developer, Ethical Hacker, and Cybersecurity Expert. Passionate about building secure and innovative solutions.">
+<meta name="keywords" content="Harshit Mishra, Ethical Hacker, Software Developer, Cybersecurity, C Programming, Open Source, GitHub Profile">
 ---
