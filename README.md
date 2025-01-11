@@ -42,7 +42,14 @@ Here's an updated and visually enhanced version of your profile with badges, ico
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile%20Development-blue?style=flat-square&logo=flutter)  
 ![Photoshop](https://img.shields.io/badge/Photoshop-Design-blue?style=flat-square&logo=adobephotoshop)  
 ![Canva](https://img.shields.io/badge/Canva-Design-blue?style=flat-square&logo=canva)  
-
+![VSDC Video Editor](https://img.shields.io/badge/VSDC%20Video%20Editor-Video%20Editing-orange?style=flat-square&logo=vlc-media-player)
+![MS Office](https://img.shields.io/badge/MS%20Office-Productivity-blue?style=flat-square&logo=microsoft-office)
+![Terminal](https://img.shields.io/badge/Terminal-Scripting-black?style=flat-square&logo=windows-terminal)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=flat-square&logo=git)
+![XAMPP](https://img.shields.io/badge/XAMPP-Server%20Management-orange?style=flat-square&logo=xampp)
+![SQL](https://img.shields.io/badge/SQL-Database-green?style=flat-square&logo=postgresql)
+![Turbo C++](https://img.shields.io/badge/Turbo%20C++-Programming-blue?style=flat-square&logo=cplusplus)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow?style=flat-square&logo=firebase)
 ---
 
 ## 🌌 **About Me**  
