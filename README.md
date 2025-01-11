@@ -79,15 +79,26 @@ I believe in **secure innovation**, combining cutting-edge software development 
    A **C language** project for security testing and CMD automation.  
 
 ### **Software Development Projects:**  
+Here’s the updated section with **badges** added and the **highlight** that these are web projects:
+
+---
+
+### **Web Development Projects:**  
+
 1. [**Moviewala**](https://github.com/mishra9759harshit/Moviewala)  
-   A sleek, user-friendly movie downloading site.  
+   A sleek, user-friendly **movie downloading site**.  
+   ![Web Project Badge](https://img.shields.io/badge/Web%20Project-Movie%20Downloading%20Site-blue?style=flat-square)  
 
 2. [**AstroLove**](https://astrolove.vercel.app/)  
-   An astrology-based **love calculator**.  
+   A **Love Compatibility Calculator**, designed to find your love match based on astrology.  
+   ![AstroLove Badge](https://img.shields.io/badge/AstroLove-Love%20Compatibility%20Calculator-blue?style=flat-square&logo=vercel)  
+   ![Web Project Badge](https://img.shields.io/badge/Web%20Project-Astrology%20Based%20Calculator-blue?style=flat-square)  
 
-3. [**Impress Your Crush**](https://astrolove.vercel.app/single.html)  
-   Personalized proposals in a developer’s style.  
-
+3. [**Crush Impress**](https://astrolove.vercel.app/single.html)  
+   Personalized **proposals** in a developer’s style for impressing your crush.  
+   ![Crush Impress Badge](https://img.shields.io/badge/Crush%20Impress-Personalized%20Proposals-blue?style=flat-square&logo=vercel)  
+   ![Web Project Badge](https://img.shields.io/badge/Web%20Project-Personalized%20Proposals%20For%20Crush-blue?style=flat-square)
+   
 ---
 
 ## 📊 **GitHub Stats**  
