@@ -8,7 +8,8 @@ Here's an updated and visually enhanced version of your profile with badges, ico
 
 > **_"Code Securely, Innovate Boldly."_**  
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Software+Developer+%26+Ethical+Hacker;Creating+Secure+and+Innovative+Solutions;Exploring+the+Intersection+of+Code+%26+Cybersecurity)  
+![Typing Animation](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Harshit+Mishra!;Software+Developer+%26+Ethical+Hacker;Expert+in+C,+Python,+JavaScript;Creating+Secure+and+Innovative+Solutions;Cybersecurity+Enthusiast;Web+Developer+%26+Problem+Solver)  
+
 
 ![Stars](https://img.shields.io/github/stars/mishra9759harshit/exe?label=Repo%20Stars&style=for-the-badge)  
 ![Followers](https://img.shields.io/github/followers/mishra9759harshit?label=GitHub%20Followers&style=for-the-badge)  
