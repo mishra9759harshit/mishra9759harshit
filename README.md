@@ -19,8 +19,8 @@ Here's an updated and visually enhanced version of your profile with badges, ico
 ## 🛠️ **Tools & Technologies**  
 
 ### **Operating Systems**  
-![Windows](https://img.shields.io/badge/Windows-11-blue?style=flat-square&logo=windows)  
-![Linux](https://img.shields.io/badge/Linux-Kali,%20Ubuntu-blue?style=flat-square&logo=linux)  
+![Windows](https://img.shields.io/badge/Windows-XP,%202000,%207,%208,%2010,%2011-blue?style=flat-square&logo=windows)  
+![Linux](https://img.shields.io/badge/Linux-Kali,%20Ubuntu,%20Parrot,%20Debian-blue?style=flat-square&logo=linux)  
 
 ### **Programming Languages**  
 ![C](https://img.shields.io/badge/C-Language-blue?style=flat-square&logo=c)  
