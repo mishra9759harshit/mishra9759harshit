@@ -104,8 +104,8 @@ Here’s the updated section with **badges** added and the **highlight** that th
 ## 📊 **GitHub Stats**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishra9759harshit&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra9759harshit&layout=compact&theme=radical&langs_count=10) 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mishra9759harshit&theme=github-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra9759harshit&layout=compact&theme=radical&langs_count=10)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mishra9759harshit&theme=github-dark&hide_border=true)  
 
 ---
 
