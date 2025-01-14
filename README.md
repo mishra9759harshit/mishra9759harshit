@@ -9,7 +9,7 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Harshit+Mishra!;Software+Developer+%26+Ethical+Hacker;Expert+in+C,+Python,+JavaScript;Creating+Secure+and+Innovative+Solutions;Cybersecurity+Enthusiast;Web+Developer+%26+Problem+Solver)  
 
 
-![Stars](https://img.shields.io/github/stars/mishra9759harshit/exe?label=Repo%20Stars&style=for-the-badge)  
+![Stars](https://api.github.com/users/mishra9759harshit/repos)  
 ![Followers](https://img.shields.io/github/followers/mishra9759harshit?label=GitHub%20Followers&style=for-the-badge)  
 ![Profile Views](https://komarev.com/ghpvc/?username=mishra9759harshit&label=Profile%20Views&color=blue&style=for-the-badge)  
 
