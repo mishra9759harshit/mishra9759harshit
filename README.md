@@ -110,7 +110,7 @@ Here’s the updated section with **badges** added and the **highlight** that th
 
 - [**shop management**](https://github.com/mishra9759harshit/Shop-Management-)  
 - [**windows dignostic**](https://github.com/mishra9759harshit/Windows-Diagnostics)  
-- [**Wifi and bluetooth cybersecurity**]([https://github.com/mishra9759harshit/Moviewala](https://github.com/mishra9759harshit/fiblue)  
+- [**Wifi and bluetooth cybersecurity**]((https://github.com/mishra9759harshit/fiblue)  
 - [**C Source Codes**](https://github.com/mishra9759harshit/C-source-codes)  
 
 ---
