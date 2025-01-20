@@ -66,13 +66,10 @@ I believe in **secure innovation**, combining cutting-edge software development 
 ## 🚀 **Featured Projects**  
 
 ### **Cybersecurity Projects:**  
-1. [**Cyber Quiz**](https://pcgames.vercel.app/)  
-   ![Badge](https://img.shields.io/badge/Cybersecurity-Quiz-blue?style=flat-square)  
-   Test your knowledge of cybersecurity through interactive quizzes.  
+1. [**fiblue**](https://github.com/mishra9759harshit/fiblue.git)  
+   ![Badge](https://img.shields.io/badge/Wifi&bluetooth-blue?style=flat-square)
+   A **Advance cybersecuirty tool** Scan wifi and bluetooth vulnerability. 
 
-2. [**Secure Coder**](https://securecoder.vercel.app/)  
-   ![Badge](https://img.shields.io/badge/E--Learning-Secure%20Coding-blue?style=flat-square)  
-   An e-learning platform for budding programmers with a focus on secure coding practices.  
 
 3. [**Mr. Robot**](https://github.com/mishra9759harshit/exe)  
    ![Badge](https://img.shields.io/badge/Command--Line-Automation-blue?style=flat-square)  
@@ -85,8 +82,8 @@ Here’s the updated section with **badges** added and the **highlight** that th
 
 ### **Web Development Projects:**  
 
-1. [**Moviewala**](https://github.com/mishra9759harshit/Moviewala)  
-   A sleek, user-friendly **movie downloading site**.  
+1. [**Moviewala**](https://mishraharshit.vercel.app/live.html)  
+   **Click the link to see our project library**
    ![Web Project Badge](https://img.shields.io/badge/Web%20Project-Movie%20Downloading%20Site-blue?style=flat-square)  
 
 2. [**AstroLove**](https://astrolove.vercel.app/)  
