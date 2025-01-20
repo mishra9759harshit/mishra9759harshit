@@ -108,9 +108,9 @@ Here’s the updated section with **badges** added and the **highlight** that th
 
 ## 🌐 **Repositories to Explore**  
 
-- [**Mr. Robot Executable**](https://github.com/mishra9759harshit/exe)  
-- [**Cyber Quiz**](https://github.com/mishra9759harshit/cyberquiz)  
-- [**Moviewala**](https://github.com/mishra9759harshit/Moviewala)  
+- [**shop management**](https://github.com/mishra9759harshit/Shop-Management-)  
+- [**windows dignostic**](https://github.com/mishra9759harshit/Windows-Diagnostics)  
+- [**Wifi and bluetooth cybersecurity**]([https://github.com/mishra9759harshit/Moviewala](https://github.com/mishra9759harshit/fiblue))  
 - [**C Source Codes**](https://github.com/mishra9759harshit/C-source-codes)  
 
 ---
