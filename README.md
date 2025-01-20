@@ -83,7 +83,7 @@ Here’s the updated section with **badges** added and the **highlight** that th
 ### **Web Development Projects:**  
 
 1. [**Moviewala**](https://mishraharshit.vercel.app/live.html)  
-   **Click the link to see our project library**
+   **Click the link to see our project library** enjoy our projects.
    ![Web Project Badge](https://img.shields.io/badge/Web%20Project-Movie%20Downloading%20Site-blue?style=flat-square)  
 
 2. [**AstroLove**](https://astrolove.vercel.app/)  
