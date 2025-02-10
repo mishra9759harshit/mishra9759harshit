@@ -22,33 +22,13 @@
 ![Linux](https://img.shields.io/badge/Linux-Kali,%20Ubuntu,%20Parrot,%20Debian-blue?style=flat-square&logo=linux)  
 
 ### **Programming Languages**  
-![C](https://img.shields.io/badge/C-Language-blue?style=flat-square&logo=c)  
-![Python](https://img.shields.io/badge/Python-Language-blue?style=flat-square&logo=python)  
-![JavaScript](https://img.shields.io/badge/JavaScript-Language-blue?style=flat-square&logo=javascript)  
-![HTML](https://img.shields.io/badge/HTML-Markup-blue?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS-Styling-blue?style=flat-square&logo=css3)  
+![C](https://img.shields.io/badge/C-Language-blue?style=flat-square&logo=c)  ![Python](https://img.shields.io/badge/Python-Language-blue?style=flat-square&logo=python)  ![JavaScript](https://img.shields.io/badge/JavaScript-Language-blue?style=flat-square&logo=javascript)  ![HTML](https://img.shields.io/badge/HTML-Markup-blue?style=flat-square&logo=html5)  ![CSS](https://img.shields.io/badge/CSS-Styling-blue?style=flat-square&logo=css3)  
 
-### **Cybersecurity Arsenal**  
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-blue?style=flat-square&logo=metasploit)  
-![SET](https://img.shields.io/badge/SET-Social%20Engineering%20Toolkit-blue?style=flat-square)  
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=flat-square&logo=wireshark)  
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue?style=flat-square)  
-![JohnTheRipper](https://img.shields.io/badge/John%20the%20Ripper-Password%20Cracker-blue?style=flat-square)  
+### **Cybersecurity Arsenal** 
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-blue?style=flat-square&logo=metasploit)  ![SET](https://img.shields.io/badge/SET-Social%20Engineering%20Toolkit-blue?style=flat-square)![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=flat-square&logo=wireshark)  ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue?style=flat-square) ![JohnTheRipper](https://img.shields.io/badge/John%20the%20Ripper-Password%20Cracker-blue?style=flat-square)  
 
 ### **Development Tools**  
-![VS Code](https://img.shields.io/badge/VSCode-Editor-blue?style=flat-square&logo=visualstudiocode)  
-![PyCharm](https://img.shields.io/badge/PyCharm-IDE-blue?style=flat-square&logo=pycharm)  
-![Flutter](https://img.shields.io/badge/Flutter-Mobile%20Development-blue?style=flat-square&logo=flutter)  
-![Photoshop](https://img.shields.io/badge/Photoshop-Design-blue?style=flat-square&logo=adobephotoshop)  
-![Canva](https://img.shields.io/badge/Canva-Design-blue?style=flat-square&logo=canva)  
-![VSDC Video Editor](https://img.shields.io/badge/VSDC%20Video%20Editor-Video%20Editing-orange?style=flat-square&logo=vlc-media-player)
-![MS Office](https://img.shields.io/badge/MS%20Office-Productivity-blue?style=flat-square&logo=microsoft-office)
-![Terminal](https://img.shields.io/badge/Terminal-Scripting-black?style=flat-square&logo=windows-terminal)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=flat-square&logo=git)
-![XAMPP](https://img.shields.io/badge/XAMPP-Server%20Management-orange?style=flat-square&logo=xampp)
-![SQL](https://img.shields.io/badge/SQL-Database-green?style=flat-square&logo=postgresql)
-![Turbo C++](https://img.shields.io/badge/Turbo%20C++-Programming-blue?style=flat-square&logo=cplusplus)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow?style=flat-square&logo=firebase)
+![VS Code](https://img.shields.io/badge/VSCode-Editor-blue?style=flat-square&logo=visualstudiocode)  ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-blue?style=flat-square&logo=pycharm)  ![Flutter](https://img.shields.io/badge/Flutter-Mobile%20Development-blue?style=flat-square&logo=flutter)  ![Photoshop](https://img.shields.io/badge/Photoshop-Design-blue?style=flat-square&logo=adobephotoshop)  ![Canva](https://img.shields.io/badge/Canva-Design-blue?style=flat-square&logo=canva) ![VSDC Video Editor](https://img.shields.io/badge/VSDC%20Video%20Editor-Video%20Editing-orange?style=flat-square&logo=vlc-media-player)![MS Office](https://img.shields.io/badge/MS%20Office-Productivity-blue?style=flat-square&logo=microsoft-office)![Terminal](https://img.shields.io/badge/Terminal-Scripting-black?style=flat-square&logo=windows-terminal)![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=flat-square&logo=git)![XAMPP](https://img.shields.io/badge/XAMPP-Server%20Management-orange?style=flat-square&logo=xampp)![SQL](https://img.shields.io/badge/SQL-Database-green?style=flat-square&logo=postgresql)![Turbo C++](https://img.shields.io/badge/Turbo%20C++-Programming-blue?style=flat-square&logo=cplusplus)![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow?style=flat-square&logo=firebase)
 ---
 
 ## 🌌 **About Me**  
