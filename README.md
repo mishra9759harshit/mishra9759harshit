@@ -9,9 +9,7 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Harshit+Mishra!;Software+Developer+%26+Ethical+Hacker;Expert+in+C,+Python,+JavaScript;Creating+Secure+and+Innovative+Solutions;Cybersecurity+Enthusiast;Web+Developer+%26+Problem+Solver)  
 
 
-![Stars](https://img.shields.io/badge/Total%20Stars-30-brightgreen?style=for-the-badge)  
-![Followers](https://img.shields.io/github/followers/mishra9759harshit?label=GitHub%20Followers&style=for-the-badge)  
-![Profile Views](https://komarev.com/ghpvc/?username=mishra9759harshit&label=Profile%20Views&color=blue&style=for-the-badge)  
+![Stars](https://img.shields.io/badge/Total%20Stars-30-brightgreen?style=for-the-badge)  ![Followers](https://img.shields.io/github/followers/mishra9759harshit?label=GitHub%20Followers&style=for-the-badge)  ![Profile Views](https://komarev.com/ghpvc/?username=mishra9759harshit&label=Profile%20Views&color=blue&style=for-the-badge)  
 
 ---
 
@@ -42,58 +40,27 @@ Hi, I’m **Harshit Mishra**, a passionate **Software Developer** and **Self-Tau
 I believe in **secure innovation**, combining cutting-edge software development with robust **cybersecurity practices** to protect and empower users.  
 
 ---
-
-## 🚀 **Featured Projects**  
-
-### **Cybersecurity Projects:**  
-1. [**fiblue**](https://github.com/mishra9759harshit/fiblue.git)  
-   ![Badge](https://img.shields.io/badge/Wifi&bluetooth-blue?style=flat-square)
-   A **Advance cybersecuirty tool** Scan wifi and bluetooth vulnerability. 
-
-
-3. [**Mr. Robot**](https://github.com/mishra9759harshit/exe)  
-   ![Badge](https://img.shields.io/badge/Command--Line-Automation-blue?style=flat-square)  
-   A **C language** project for security testing and CMD automation.  
-
-### **Software Development Projects:**  
-Here’s the updated section with **badges** added and the **highlight** that these are web projects:
-
----
-
 ### **Web Development Projects:**  
 
 1. [**Projects Library**](https://mishraharshit.vercel.app/live.html)  
    **Click the link to see our project library** enjoy our projects.
-   ![Web Project Badge](https://img.shields.io/badge/Web%20Project-Movie%20Downloading%20Site-blue?style=flat-square)  
+   
+   ![Web Project Badge](https://img.shields.io/badge/Visit%20my%20web%20projects-blue?style=flat-square)  
 
-2. [**AstroLove**](https://astrolove.vercel.app/)  
+3. [**AstroLove**](https://astrolove.vercel.app/)  
    A **Love Compatibility Calculator**, designed to find your love match based on astrology.  
    ![AstroLove Badge](https://img.shields.io/badge/AstroLove-Love%20Compatibility%20Calculator-blue?style=flat-square&logo=vercel)  
    ![Web Project Badge](https://img.shields.io/badge/Web%20Project-Astrology%20Based%20Calculator-blue?style=flat-square)  
-
-3. [**Crush Impress**](https://astrolove.vercel.app/single.html)  
-   Personalized **proposals** in a developer’s style for impressing your crush.  
-   ![Crush Impress Badge](https://img.shields.io/badge/Crush%20Impress-Personalized%20Proposals-blue?style=flat-square&logo=vercel)  
-   ![Web Project Badge](https://img.shields.io/badge/Web%20Project-Personalized%20Proposals%20For%20Crush-blue?style=flat-square)
    
 ---
 
 ## 📊 **GitHub Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishra9759harshit&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra9759harshit&layout=compact&theme=radical&langs_count=10)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishra9759harshit&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra9759harshit&layout=compact&theme=radical&langs_count=10)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mishra9759harshit&theme=github-dark&hide_border=true)  
 
 ---
 
-## 🌐 **Repositories to Explore**  
-
-- [**shop management**](https://github.com/mishra9759harshit/Shop-Management-)  
-- [**windows dignostic**](https://github.com/mishra9759harshit/Windows-Diagnostics)  
-- [**Wifi and bluetooth cybersecurity**](https://github.com/mishra9759harshit/fiblue)  
-- [**C Source Codes**](https://github.com/mishra9759harshit/C-source-codes)  
-
----
 
 ## 🏅 **Certifications**  
 
