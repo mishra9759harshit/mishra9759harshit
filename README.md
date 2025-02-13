@@ -1,6 +1,7 @@
----
 
-# 🖥️ **Harshit Mishra: Developer & Ethical Hacker**  
+
+# **Harshit Mishra:**
+  **"Two Worlds, One Passion: A Journey in Software Engineering & Ethical Hacking"**  
 
  ![Header Image](https://github.com/mishra9759harshit/githost/blob/main/images%20(4).jpeg?raw=true)
 
