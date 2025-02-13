@@ -12,7 +12,7 @@
 ![Stars](https://img.shields.io/badge/Total%20Stars-30-brightgreen?style=for-the-badge)  ![Followers](https://img.shields.io/github/followers/mishra9759harshit?label=GitHub%20Followers&style=for-the-badge)  ![Profile Views](https://komarev.com/ghpvc/?username=mishra9759harshit&label=Profile%20Views&color=blue&style=for-the-badge)  
 ### 🚀 Talk with My AI Assistant  
 
-[![AI Assistant](https://img.shields.io/badge/🤖%20Chat%20with%20AI-0078D4?style=for-the-badge&logo=ai&logoColor=white)](https://t.me/Intelligent_Real_Time_Assist_bot)
+[![AI Assistant](https://img.shields.io/badge/🤖%20Chat%20with%20My%20assistant-0078D4?style=for-the-badge&logo=ai&logoColor=white)](https://t.me/Intelligent_Real_Time_Assist_bot)
 <a href="https://t.me/Intelligent_Real_Time_Assist_bot">
     <img src="https://github.com/user-attachments/assets/e5c82e74-2777-4a71-865c-8e89800e5c6a" alt="Assistant" width="90" height="90">
 </a>
