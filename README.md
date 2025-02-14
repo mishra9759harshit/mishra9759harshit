@@ -2,9 +2,8 @@
 
 # **Harshit Mishra:**
   **"Two Worlds, One Passion: A Journey in Software Engineering & Ethical Hacking"**  
-
- ![Header Image](https://github.com/mishra9759harshit/githost/blob/main/images%20(4).jpeg?raw=true)
-
+     ![Intro](https://github.com/mishra9759harshit/Photos/blob/main/IMG_crooun.gif)
+ 
 > **_"Code Securely, Innovate Boldly."_**  
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Harshit+Mishra!;Software+Developer+%26+Ethical+Hacker;Expert+in+C,+Python,+JavaScript;Creating+Secure+and+Innovative+Solutions;Cybersecurity+Enthusiast;Web+Developer+%26+Problem+Solver)  
