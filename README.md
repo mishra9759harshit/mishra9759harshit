@@ -31,8 +31,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra9759harshit&layout=compact&theme=radical&langs_count=10) 
 
 ### **Cybersecurity Arsenal** 
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-blue?style=flat-square&logo=metasploit)  ![SET](https://img.shields.io/badge/SET-Social%20Engineering%20Toolkit-blue?style=flat-square)![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=flat-square&logo=wireshark)  ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue?style=flat-square) ![JohnTheRipper](https://img.shields.io/badge/John%20the%20Ripper-Password%20Cracker-blue?style=flat-square)  [![Geany](https://img.shields.io/badge/Geany-Lightweight_Python_Editor-yellow?style=for-the-badge&logo=geany&logoColor=white)](https://www.geany.org/)
- [![Zphisher](https://img.shields.io/badge/Zphisher-Phishing_Tool-blue?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/htr-tech/zphisher)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-blue?style=flat-square&logo=metasploit)  ![SET](https://img.shields.io/badge/SET-Social%20Engineering%20Toolkit-blue?style=flat-square)![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=flat-square&logo=wireshark)  ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue?style=flat-square) ![JohnTheRipper](https://img.shields.io/badge/John%20the%20Ripper-Password%20Cracker-blue?style=flat-square)  [![Geany](https://img.shields.io/badge/Geany-Python_Editor-yellow?style=for-the-badge&logo=geany&logoColor=white)](https://www.geany.org/)
+ [![Zphisher](https://img.shields.io/badge/Zphisher-Phishing_Tool-blue?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/htr-tech/zphisher)![Spooftooth Badge](https://img.shields.io/badge/Spooftooth-Active-blue?logo=bluetooth&logoColor=white&style=for-the-badge)![Fern WiFi Cracker](https://img.shields.io/badge/Fern_WiFi_Cracker-Active-green?logo=wifi&logoColor=white&style=for-the-badge)
+
+
 
 
 
