@@ -28,7 +28,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Kali,%20Ubuntu,%20Parrot,%20Debian-blue?style=flat-square&logo=linux)  
 
 ### **Programming Languages**  
-![C](https://img.shields.io/badge/C-Language-blue?style=flat-square&logo=c)  ![Python](https://img.shields.io/badge/Python-Language-blue?style=flat-square&logo=python)  ![JavaScript](https://img.shields.io/badge/JavaScript-Language-blue?style=flat-square&logo=javascript)  ![HTML](https://img.shields.io/badge/HTML-Markup-blue?style=flat-square&logo=html5)  ![CSS](https://img.shields.io/badge/CSS-Styling-blue?style=flat-square&logo=css3)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra9759harshit&layout=compact&theme=radical&langs_count=10) 
 
 ### **Cybersecurity Arsenal** 
 ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-blue?style=flat-square&logo=metasploit)  ![SET](https://img.shields.io/badge/SET-Social%20Engineering%20Toolkit-blue?style=flat-square)![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=flat-square&logo=wireshark)  ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue?style=flat-square) ![JohnTheRipper](https://img.shields.io/badge/John%20the%20Ripper-Password%20Cracker-blue?style=flat-square)  [![Geany](https://img.shields.io/badge/Geany-Lightweight_Python_Editor-yellow?style=for-the-badge&logo=geany&logoColor=white)](https://www.geany.org/)
