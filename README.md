@@ -9,7 +9,7 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Harshit+Mishra!;Software+Developer+%26+Ethical+Hacker;Expert+in+C,+Python,+JavaScript;Creating+Secure+and+Innovative+Solutions;Cybersecurity+Enthusiast;Web+Developer+%26+Problem+Solver)  
 
 
-![Stars](https://img.shields.io/badge/Total%20Stars-30-brightgreen?style=for-the-badge)  ![Followers](https://img.shields.io/github/followers/mishra9759harshit?label=GitHub%20Followers&style=for-the-badge)  ![Profile Views](https://komarev.com/ghpvc/?username=mishra9759harshit&label=Profile%20Views&color=blue&style=for-the-badge)  
+![Stars](https://img.shields.io/badge/Total%20Stars-41-brightgreen?style=for-the-badge)  ![Followers](https://img.shields.io/github/followers/mishra9759harshit?label=GitHub%20Followers&style=for-the-badge)  ![Profile Views](https://komarev.com/ghpvc/?username=mishra9759harshit&label=Profile%20Views&color=blue&style=for-the-badge)  
 ### 🚀 Talk with My AI Assistant  
 
 [![AI Assistant](https://img.shields.io/badge/🤖%20Chat%20with%20My%20assistant-0078D4?style=for-the-badge&logo=ai&logoColor=white)](https://t.me/Intelligent_Real_Time_Assist_bot)
