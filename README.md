@@ -85,6 +85,8 @@ I believe in **secure innovation**, combining cutting-edge software development 
 [![Website](https://img.shields.io/badge/Website-Harshit%20Mishra-blue?style=flat-square&logo=vercel)](https://mishraharshit.vercel.app)  
 [![Email](https://img.shields.io/badge/Email-mishra9759harshit@gmail.com-blue?style=flat-square&logo=gmail)](mailto:mishra9759harshit@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Mishra-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harshit-mishra-mr-robot)  
+[![DEV.to](https://img.shields.io/badge/DEV.to-Follow%20Me-black?style=for-the-badge&logo=dev.to)](https://dev.to/mishra9759harshit)
+
 
 ---
 
