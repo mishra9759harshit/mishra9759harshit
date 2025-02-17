@@ -58,12 +58,12 @@ I believe in **secure innovation**, combining cutting-edge software development 
 1. [**Projects Library**](https://mishraharshit.vercel.app/live.html)  
    **Click the link to see our project library** enjoy our projects.
    
-   ![Web Project Badge](https://img.shields.io/badge/Visit%20my%20web%20projects-blue?style=flat-square)(https://mishraharshit.vercel.app/live.html)   
+   [![Web Project Badge](https://img.shields.io/badge/Visit%20my%20web%20projects-blue?style=flat-square)](https://mishraharshit.vercel.app/live.html)   
 
 3. [**AstroLove**](https://astrolove.vercel.app/)  
    A **Love Compatibility Calculator**, designed to find your love match based on astrology.  
-   ![AstroLove Badge](https://img.shields.io/badge/AstroLove-Love%20Compatibility%20Calculator-blue?style=flat-square&logo=vercel)(https://astrolove.vercel.app/)  
-   ![Web Project Badge](https://img.shields.io/badge/Web%20Project-Astrology%20Based%20Calculator-blue?style=flat-square)(https://astrolove.vercel.app/) 
+   [![AstroLove Badge](https://img.shields.io/badge/AstroLove-Love%20Compatibility%20Calculator-blue?style=flat-square&logo=vercel)](https://astrolove.vercel.app/)  
+   [![Web Project Badge](https://img.shields.io/badge/Web%20Project-Astrology%20Based%20Calculator-blue?style=flat-square)](https://astrolove.vercel.app/)
    
 ---
 
