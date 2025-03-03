@@ -44,7 +44,7 @@
 
 ## 🌌 **About Me**  
 
-Hi, I’m **Harshit Mishra**, a passionate **Software Developer** and **Self-Taught Ethical Hacker** dedicated to:  
+Hi, I’m **Harshit Mishra**, a passionate **Software Developer** dedicated to:  
 - 💡 Building **secure software applications**  
 - 🔒 Enhancing **cybersecurity awareness**  
 - 🛠️ Innovating **solutions to real-world problems**  
