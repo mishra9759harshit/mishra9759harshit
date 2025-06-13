@@ -47,7 +47,7 @@
   <a href="https://github.com/mishra9759harshit/github-readme-stats/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/mishra9759harshit/github-readme-stats?style=for-the-badge&color=ff69b4">
   </a>
-  <a href="https://github.com/mishra9759harshit/github-readme-stats/network/members">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/mishra9759harshit/github-readme-stats?style=for-the-badge&color=blueviolet">
+  <a href="https://github.com/mishra9759harshit/github_readme_enhancer.md/network/members">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/mishra9759harshit/github_readme_enhancer.md?style=for-the-badge&color=blueviolet">
   </a>
 </p>
