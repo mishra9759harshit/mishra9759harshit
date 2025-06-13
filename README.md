@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/mishra9759harshit/Photos/blob/main/harshit.jpg?raw=true" width="100" style="border-radius: 50%; margin: 10px;" />
-  <img src="https://github.com/mishra9759harshit/Photos/blob/main/cert2.jpg?raw=true" width="100" style="border-radius: 50%; margin: 10px;" />
-  <img src="https://github.com/mishra9759harshit/Photos/blob/main/cert3.jpg?raw=true" width="100" style="border-radius: 50%; margin: 10px;" />
+  <img src="https://github.com/mishra9759harshit/Photos/blob/main/IMG-20250601-WA0008.jpg?raw=true" width="100" style="border-radius: 50%; margin: 10px;" />
+  <img src="https://github.com/mishra9759harshit/Photos/blob/main/FullSizeRender-4-1.jpg?raw=true" width="100" style="border-radius: 50%; margin: 10px;" />
 </p>
 <h3 align="center">"Two Worlds, One Passion: A Journey in Software Engineering & Ethical Hacking"</h3>
 
