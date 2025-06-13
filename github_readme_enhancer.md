@@ -44,10 +44,21 @@
 
 <!-- ⭐ GitHub Star & Fork Badges for mishra9759harshit/github_readme_enhancer.md -->
 <p align="center">
-  <a href="https://github.com/mishra9759harshit/github-readme-stats/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/mishra9759harshit/github-readme-stats?style=for-the-badge&color=ff69b4">
-  </a>
-  <a href="https://github.com/mishra9759harshit/github_readme_enhancer/network/members">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/mishra9759harshit/github_readme_enhancer?style=for-the-badge&color=blueviolet">
-  </a>
+
+  <!-- ⭐ Star Badge -->
+  <a href="https://github.com/mishra9759harshit/mishra9759harshit/stargazers">
+    <img alt="Star Badge" src="https://img.shields.io/github/stars/mishra9759harshit/mishra9759harshit?style=for-the-badge&logo=github&label=Star&color=ff69b4">
+  </a>
+
+  <!-- 🍴 Fork Badge -->
+  <a href="https://github.com/mishra9759harshit/mishra9759harshit/fork">
+    <img alt="Fork Badge" src="https://img.shields.io/github/forks/mishra9759harshit/mishra9759harshit?style=for-the-badge&logo=github&label=Fork&color=blueviolet">
+  </a>
+
+  <!-- 👤 Follow Badge -->
+  <a href="https://github.com/mishra9759harshit?tab=followers">
+    <img alt="Follow Badge" src="https://img.shields.io/github/followers/mishra9759harshit?style=for-the-badge&logo=github&label=Follow&color=orange">
+  </a>
+
 </p>
+
