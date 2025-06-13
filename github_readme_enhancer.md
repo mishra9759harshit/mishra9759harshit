@@ -1,5 +1,5 @@
 <!-- 🎨 GitHub Stats Theme Showcase for Harshit Mishra | SEO Optimized -->
-## ✨ GitHub Pinned Repository Themes — Harshit Mishra
+## ✨ GitHub Pinned Repository Themes By — Harshit Mishra
 
 > Use these GitHub Readme Stats card themes in your profile to style your pinned repos with dark/light/gradient aesthetics and fast cache (1 day).
 
@@ -36,7 +36,6 @@
 
 ## 🏷️ Shields.io GitHub Badges — Styling & Info Examples
 
-```markdown
 ![GitHub Stars](https://img.shields.io/github/stars/mishra9759harshit/github-readme-stats?style=flat-square&color=brightgreen)
 ![GitHub Forks](https://img.shields.io/github/forks/mishra9759harshit/github-readme-stats?style=flat-square&color=blue)
 ![GitHub Issues](https://img.shields.io/github/issues/mishra9759harshit/github-readme-stats?style=flat-square&color=orange)
