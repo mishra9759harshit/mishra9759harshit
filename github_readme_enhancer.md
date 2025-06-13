@@ -1,5 +1,6 @@
 <!-- 🎨 GitHub Stats Theme Showcase for Harshit Mishra | SEO Optimized -->
-[!hero](https://www.canva.com/design/DAGqPiaM_X4/1K1YBZHPMXGWXcR8cTHmvQ/view)
+<img src="https://github.com/mishra9759harshit/Photos/raw/main/statimage" width="400" height="300" alt="Stat Image"/>
+
 ## ✨ GitHub Pinned Repository Themes By — Harshit Mishra
 
 > Use these GitHub Readme Stats card themes in your profile to style your pinned repos with dark/light/gradient aesthetics and fast cache (1 day).
