@@ -1,4 +1,7 @@
-### 🖌️ Pick Your Theme – Preview of GitHub Stats with Caching
+<!-- 🎨 GitHub Stats Theme Showcase for Harshit Mishra | SEO Optimized -->
+## ✨ GitHub Pinned Repository Themes — Harshit Mishra
+
+> Use these GitHub Readme Stats card themes in your profile to style your pinned repos with dark/light/gradient aesthetics and fast cache (1 day).
 
 | Theme | Preview |
 |-------|---------|
@@ -28,3 +31,14 @@
 | Blue Navy | ![blue_navy](https://github-readme-stats.vercel.app/api/pin/?username=mishra9759harshit&repo=github-readme-stats&cache_seconds=86400&theme=blue_navy) |
 | Calm Pink | ![calm_pink](https://github-readme-stats.vercel.app/api/pin/?username=mishra9759harshit&repo=github-readme-stats&cache_seconds=86400&theme=calm_pink) |
 | Ambient Gradient | ![ambient_gradient](https://github-readme-stats.vercel.app/api/pin/?username=mishra9759harshit&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient) |
+
+---
+
+## 🏷️ Shields.io GitHub Badges — Styling & Info Examples
+
+```markdown
+![GitHub Stars](https://img.shields.io/github/stars/mishra9759harshit/github-readme-stats?style=flat-square&color=brightgreen)
+![GitHub Forks](https://img.shields.io/github/forks/mishra9759harshit/github-readme-stats?style=flat-square&color=blue)
+![GitHub Issues](https://img.shields.io/github/issues/mishra9759harshit/github-readme-stats?style=flat-square&color=orange)
+![GitHub License](https://img.shields.io/github/license/mishra9759harshit/github-readme-stats?style=flat-square)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/mishra9759harshit/github-readme-stats?style=flat-square)
