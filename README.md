@@ -175,17 +175,3 @@
 <!-- Theme Color (Optional for Mobile Browsers) -->
 <meta name="theme-color" content="#0f0f0f">
 
-
----
-| Theme Name     | Preview                                                                                           |
-| -------------- | ------------------------------------------------------------------------------------------------- |
-| `tokyonight`   | ![tokyonight](https://github-readme-stats.vercel.app/api?username=octocat\&theme=tokyonight)      |
-| `radical`      | ![radical](https://github-readme-stats.vercel.app/api?username=octocat\&theme=radical)            |
-| `merko`        | ![merko](https://github-readme-stats.vercel.app/api?username=octocat\&theme=merko)                |
-| `gruvbox`      | ![gruvbox](https://github-readme-stats.vercel.app/api?username=octocat\&theme=gruvbox)            |
-| `github_dark`  | ![github\_dark](https://github-readme-stats.vercel.app/api?username=octocat\&theme=github_dark)   |
-| `github_light` | ![github\_light](https://github-readme-stats.vercel.app/api?username=octocat\&theme=github_light) |
-| `dracula`      | ![dracula](https://github-readme-stats.vercel.app/api?username=octocat\&theme=dracula)            |
-| `nord`         | ![nord](https://github-readme-stats.vercel.app/api?username=octocat\&theme=nord)                  |
-| `monokai`      | ![monokai](https://github-readme-stats.vercel.app/api?username=octocat\&theme=monokai)            |
-| `vue`          | ![vue](https://github-readme-stats.vercel.app/api?username=octocat\&theme=vue)                    |
