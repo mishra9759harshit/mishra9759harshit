@@ -102,13 +102,26 @@
 
 ### 🎓 Certifications
 
-<p>
-  <a href="https://www.credly.com/badges/4298d4e7-7f68-42d8-b71d-d0c4222b4fb1/public_url">
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <a href="https://www.credly.com/badges/4298d4e7-7f68-42d8-b71d-d0c4222b4fb1/public_url" target="_blank" style="margin: 10px;">
     <img src="https://images.credly.com/size/160x160/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="120" alt="Cybersecurity Certification Badge"/>
   </a>
+
+  <a href="https://github.com/mishra9759harshit/Photos/blob/main/cisco.jpg?raw=true" target="_blank" style="margin: 10px;">
+    <img src="https://github.com/mishra9759harshit/Photos/blob/main/cisco.jpg?raw=true" width="120" alt="Cisco Certification"/>
+  </a>
+
+  <a href="https://github.com/mishra9759harshit/Photos/blob/main/mastercard.jpg?raw=true" target="_blank" style="margin: 10px;">
+    <img src="https://github.com/mishra9759harshit/Photos/blob/main/mastercard.jpg?raw=true" width="120" alt="Mastercard Certification"/>
+  </a>
+
+  <a href="https://github.com/mishra9759harshit/Photos/blob/main/linkedin_cert.jpg?raw=true" target="_blank" style="margin: 10px;">
+    <img src="https://github.com/mishra9759harshit/Photos/blob/main/linkedin_cert.jpg?raw=true" width="120" alt="LinkedIn Certification"/>
+  </a>
+
 </p>
 
-> 🏆 **[Getting Started with Cybersecurity](https://www.credly.com/badges/4298d4e7-7f68-42d8-b71d-d0c4222b4fb1/public_url)**
 
 ---
 
