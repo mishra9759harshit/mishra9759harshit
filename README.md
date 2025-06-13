@@ -125,6 +125,36 @@
 
 > 🔐 _"Hack the Code. Secure the World."_
 
-<!-- SEO Tags -->
-<meta name="description" content="Harshit Mishra: Software Developer, Ethical Hacker, and Cybersecurity Expert. Passionate about building secure and innovative solutions.">
-<meta name="keywords" content="Harshit Mishra, Ethical Hacker, Software Developer, Cybersecurity, C Programming, Open Source, GitHub Profile">
+<!-- ✅ SEO Meta Tags for Harshit Mishra -->
+
+<!-- Basic Meta -->
+<meta name="title" content="Harshit Mishra – Software Developer | Ethical Hacker | Cybersecurity Expert | AI Builder">
+<meta name="description" content="Official GitHub profile of Harshit Mishra – A passionate Software Developer and Cybersecurity Professional specializing in C, Python, JavaScript, Ethical Hacking, and Secure Web Applications. Explore projects, AI tools, open-source contributions, and certifications.">
+
+<!-- Keywords -->
+<meta name="keywords" content="Harshit Mishra, Software Developer, Ethical Hacker, Cybersecurity, AI Developer, AI Assistant, Secure Coding, C Developer, Python Programmer, JavaScript Developer, Flutter, Firebase, GitHub Projects, Cyber Tools, Penetration Testing, SEToolkit, Metasploit, Secure Web Development, Kali Linux, Cybersecurity Certifications, GitHub README, Full Stack Developer, Frontend, Backend, Open Source Contributor">
+
+<!-- Author & Language -->
+<meta name="author" content="Harshit Mishra">
+<meta name="language" content="English">
+
+<!-- Robots for Indexing -->
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+
+<!-- Open Graph (OG) for Social Sharing -->
+<meta property="og:type" content="profile">
+<meta property="og:title" content="Harshit Mishra – Software Engineer | Cybersecurity Specialist">
+<meta property="og:description" content="Explore the world of ethical hacking and software development with Harshit Mishra. Projects in AI, cybersecurity, and full-stack development.">
+<meta property="og:url" content="https://github.com/mishra9759harshit">
+<meta property="og:image" content="https://github.com/mishra9759harshit/Photos/blob/main/IMG_crooun.gif">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Harshit Mishra – Full Stack Developer & Cybersecurity Enthusiast">
+<meta name="twitter:description" content="GitHub Profile of Harshit Mishra – AI Assistant Creator, Ethical Hacker, and C/Python Developer.">
+<meta name="twitter:image" content="https://github.com/mishra9759harshit/Photos/blob/main/IMG_crooun.gif">
+
+<!-- Theme Color (Optional for Mobile Browsers) -->
+<meta name="theme-color" content="#0f0f0f">
+
