@@ -64,3 +64,149 @@
 
 </p>
 
+
+
+1. **Custom Profile Sections**: Timeline, Tools, Social Cards, Blog Cards
+2. **Slideshow of Project Thumbnails**
+3. **Mobile-Friendly with Dark/Light Mode Support**
+
+---
+
+## 🌟 Harshit Mishra – Developer | Cybersecurity Enthusiast | AI Assistant Builder
+
+<p align="center">
+  <img src="https://github.com/mishra9759harshit/Photos/raw/main/harshit.jpg" width="160" style="border-radius: 50%; border: 2px solid #00FFCC" />
+</p>
+
+<p align="center">
+  <b>Crafting Secure & Smart Solutions with C, Python, JS, and AI.</b>  
+  <br/>
+  <i>Let's build something great together!</i>
+</p>
+
+---
+
+### 🗓️ Developer Timeline
+
+```mermaid
+timeline
+    title Harshit Mishra – Developer Journey
+    2021 : Started exploring Things, Linux 
+    2022 : Learned Python & Ethical Hacking
+    2023 : Created Smart AI Assistant
+    2024 : Built E-Learning Web Apps & IoT Control Software
+    2025 : Publishing Developer Tools & Advanced AI Bots
+```
+
+---
+
+### 🛠️ Tools & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,vscode,linux,arduino" />
+</p>
+
+---
+
+### 🔗 Social & Developer Cards
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mishra9759harshit/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/mishra9759">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="https://www.instagram.com/mishra9759harshit/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="mailto:mishra9759harshit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+### 📰 Latest Blog Cards
+
+> Embed dynamic blog updates using GitHub Actions or RSS → Markdown scripts.
+
+```html
+<!-- Medium Blog Card Embed Example (manual or GitHub action based) -->
+<a href="https://medium.com/@mishra9759harshit" target="_blank">
+  <img src="https://github-readme-medium.vercel.app/?username=mishra9759harshit&limit=3" alt="Latest Medium Blogs" />
+</a>
+```
+
+---
+
+### 🖼️ Project Slideshow
+
+> Add this section to display animated project thumbnails.
+
+```html
+<!-- Auto slideshow of GitHub project screenshots using CSS animation -->
+<div align="center">
+  <img src="https://github.com/mishra9759harshit/Photos/blob/main/project1.png?raw=true" width="320" class="slideshow">
+  <img src="https://github.com/mishra9759harshit/Photos/blob/main/project2.png?raw=true" width="320" class="slideshow">
+  <img src="https://github.com/mishra9759harshit/Photos/blob/main/project3.png?raw=true" width="320" class="slideshow">
+</div>
+
+<style>
+  .slideshow {
+    animation: slide 9s infinite;
+    opacity: 0;
+    position: absolute;
+  }
+
+  .slideshow:nth-child(1) { animation-delay: 0s; }
+  .slideshow:nth-child(2) { animation-delay: 3s; }
+  .slideshow:nth-child(3) { animation-delay: 6s; }
+
+  @keyframes slide {
+    0% { opacity: 0; }
+    10% { opacity: 1; }
+    30% { opacity: 1; }
+    40% { opacity: 0; }
+    100% { opacity: 0; }
+  }
+</style>
+```
+
+If you're using markdown-only environments like GitHub README, you can use a [GIF slideshow](https://ezgif.com) or manually rotate images using JavaScript on a hosted webpage.
+
+---
+
+### 🌓 Dark/Light Mode Compatibility
+
+GitHub automatically supports dark/light mode depending on user settings.
+You can ensure compatibility by using:
+
+* PNGs/SVGs with transparent backgrounds
+* GitHub stats themes: `github_dark`, `rose_pine`, `swift`, etc.
+* Skillicons and Shields.io with `style=for-the-badge` (which adjusts better)
+
+For example:
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishra9759harshit&show_icons=true&theme=github_dark&cache_seconds=86400)
+```
+
+---
+
+### ✅ Want This Template?
+
+> Clone or fork this repository and personalize your own `README.md`.
+
+```bash
+git clone https://github.com/mishra9759harshit/mishra9759harshit
+```
+
+📍 Make sure to replace:
+
+* `USERNAME` with your GitHub handle
+* `REPO` with your repo names
+* Update image links with your own `GitHub/Photos` or external CDN
+
+---
+
