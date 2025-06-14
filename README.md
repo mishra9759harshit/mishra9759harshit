@@ -27,9 +27,10 @@
 </p>
 
 < p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishra9759harshit&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight &langs_count=10&hide_border=fals" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishra9759harshit&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight &langs_count=10&hide_border=false" width="48%" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishra9759harshit&layout=compact&theme=tokyonight&langs_count=10&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishra9759harshit&layout=compact&theme=tokyonight&langs_count=10&hide_border=false" width="48%" /> 
+</p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishra9759harshit&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
