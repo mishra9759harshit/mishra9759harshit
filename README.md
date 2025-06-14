@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github.com/mishra9759harshit/Photos/blob/main/IMG_crooun.gif" width="200"/>
 </p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,vscode,linux,arduino" /> </p>
 ---
 
 <p align="center">
