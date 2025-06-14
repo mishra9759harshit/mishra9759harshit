@@ -244,7 +244,8 @@
 
 </p>
 
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishra9759harshit&repo=E-Learning-App&theme=tokyonight&hide_border=false" width="48%" />
+</p>
 
 1. **Custom Profile Sections**: Timeline, Tools, Social Cards, Blog Cards
 2. **Slideshow of Project Thumbnails**
