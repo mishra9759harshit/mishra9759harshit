@@ -2,6 +2,8 @@
 <img src="https://github.com/mishra9759harshit/Photos/raw/main/statimage" width="400" height="300" alt="Stat Image"/>
 
 ## ✨ GitHub Pinned Repository Themes By — Harshit Mishra
+[![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mishra9759harshit.mishra9759harshit)](https://github.com/mishra9759harshit)
+
 
 <p align="center">
   <img src="https://github.com/mishra9759harshit/Photos/blob/main/harshit.jpg?raw=true" width="100" style="border-radius: 50%; margin: 10px;" />
