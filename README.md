@@ -107,6 +107,11 @@
   Love compatibility checker powered by astrology and responsive design.
 
 ---
+<!-- Medium Blog Card Embed Example (manual or GitHub action based) -->
+<a href="https://medium.com/@mishra9759harshit" target="_blank">
+  <img src="https://github-readme-medium.vercel.app/?username=mishra9759harshit&limit=3" alt="Latest Medium Blogs" />
+</a>
+---
 ### 🎓 Certifications
 
 <p align="center">
