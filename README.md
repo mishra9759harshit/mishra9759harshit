@@ -3,10 +3,23 @@
   <img src="https://github.com/mishra9759harshit/Photos/blob/main/IMG-20250601-WA0008.jpg?raw=true" width="100" style="border-radius: 50%; margin: 10px;" />
   <img src="https://github.com/mishra9759harshit/Photos/blob/main/FullSizeRender-4-1.jpg?raw=true" width="100" style="border-radius: 50%; margin: 10px;" />
 </p>
-<h3 align="center">"Two Worlds, One Passion: A Journey in Software Engineering & Ethical Hacking"</h3>
+
+<h3 align="center">Professional Identity</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Software_Engineer-0066cc?style=for-the-badge&labelColor=1a1a1a&logo=visualstudio&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Role-Ethical_Hacker-cc0000?style=for-the-badge&labelColor=1a1a1a&logo=kalilinux&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Role-Embedded_Systems-006600?style=for-the-badge&labelColor=1a1a1a&logo=raspberrypi&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Role-Information_Technologies-663399?style=for-the-badge&labelColor=1a1a1a&logo=iterm2&logoColor=white" />
+</p>
+
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,vscode,linux,arduino" /> </p>
----
+
+***
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Hi,+I'm+Harshit+Mishra!;Software+Developer+%26+Ethical+Hacker;Expert+in+C,+Python,+JavaScript;Creating+Secure+and+Innovative+Solutions;Cybersecurity+Enthusiast;Web+Developer+%26+Problem+Solver" />
@@ -58,16 +71,23 @@
 
 #### Operating Systems
 <p>
-  <img src="https://img.shields.io/badge/Windows-XP%2C%202000%2C%207%2C%208%2C%2010%2C%2011-blue?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Linux-Kali,%20Ubuntu,%20Parrot,%20Debian-blue?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Windows-XP%2C%202000%2C%207%2C%208%2C%2010%2C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Linux-Kali,%20Ubuntu,%20Parrot,%20Debian-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-####  Programming
+
+#### Programming
 <p>
-  <img src="https://img.shields.io/badge/C-Language-blue?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-Dynamic-orange?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/C-Language-0A75C2?style=for-the-badge&logo=c&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C++-Under_Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-Programming-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/JavaScript-Dynamic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
 </p>
+
 
 ####  Cybersecurity Arsenal
 <p>
@@ -100,13 +120,52 @@
 
 ---
 
-###  Web Projects
+***
 
--  [**Projects Library**](https://mishraharshit.vercel.app/live.html)  
-  Explore a collection of open-source web and mobile apps.
+### Web Projects
 
-- 💘 [**AstroLove**](https://astrolove.vercel.app/)  
-  Love compatibility checker powered by astrology and responsive design.
+<p align="center">
+  <a href="https://mishraharshit.vercel.app/live.html">
+    <img src="https://img.shields.io/badge/Explore-Projects_Library-0066cc?style=for-the-badge&labelColor=1a1a1a" />
+  </a>
+  <a href="https://astrolove.vercel.app/">
+    <img src="https://img.shields.io/badge/Try-AstroLove-webapp-ff0080?style=for-the-badge&labelColor=1a1a1a" />
+  </a>
+</p>
+
+- [**Projects Library**](https://mishraharshit.vercel.app/live.html)  
+  Explore live open-source web and mobile apps ready for collaboration.
+
+- [**AstroLove**](https://astrolove.vercel.app/)  
+  Love compatibility checker with astrology logic and a fully responsive interface.
+
+***
+
+### Latest Releases & Key Tools
+
+<p align="center">
+  <a href="https://github.com/mishra9759harshit/YouTubeDownloaderPro/releases/tag/YouTubeVideoDownloader">
+    <img src="https://img.shields.io/badge/Release-YT_Video_Downloader_Pro-blue?style=for-the-badge&labelColor=1a1a1a" />
+  </a>
+  <a href="https://github.com/mishra9759harshit/wifi-attack-tool">
+    <img src="https://img.shields.io/badge/Tool-WiFi_Attacker-grey?style=for-the-badge&labelColor=1a1a1a" />
+  </a>
+  <a href="https://github.com/mishra9759harshit/Windows-Diagnostics">
+    <img src="https://img.shields.io/badge/Tool-Windows_Diagnostics-222222?style=for-the-badge&labelColor=1a1a1a" />
+  </a>
+</p>
+
+- [**YouTube Video Downloader Pro**](https://github.com/mishra9759harshit/YouTubeDownloaderPro/releases/tag/YouTubeVideoDownloader)  
+  Latest release: Fast, secure YouTube video downloads for multiple platforms.
+
+- [**WiFi Attacker Tool**](https://github.com/mishra9759harshit/wifi-attack-tool)  
+  Powerful penetration toolkit for WiFi network analysis and security testing.
+
+- [**Windows Diagnostics**](https://github.com/mishra9759harshit/Windows-Diagnostics)  
+  Comprehensive diagnostic tool for troubleshooting Windows system issues.
+
+***
+
 
 ---
 <!-- Medium Blog Card Embed Example (manual or GitHub action based) -->
