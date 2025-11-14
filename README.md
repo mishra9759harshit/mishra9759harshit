@@ -5,9 +5,6 @@
 </p>
 <h3 align="center">"Two Worlds, One Passion: A Journey in Software Engineering & Ethical Hacking"</h3>
 
-<p align="center">
-  <img src="https://github.com/mishra9759harshit/Photos/blob/main/IMG_crooun.gif" width="200"/>
-</p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,vscode,linux,arduino" /> </p>
 ---
 
@@ -19,7 +16,7 @@
 
 ---
 
-### 📈 Stats & Activity
+###  Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mishra9759harshit&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false" width="48%"/>
@@ -46,7 +43,7 @@
 
 ---
 
-### 🧠 AI Assistant
+###  AI Assistant
 
 <p align="center">
   <a href="https://t.me/Intelligent_Real_Time_Assist_bot">
@@ -57,22 +54,22 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 
-#### 💻 Operating Systems
+#### Operating Systems
 <p>
   <img src="https://img.shields.io/badge/Windows-XP%2C%202000%2C%207%2C%208%2C%2010%2C%2011-blue?style=for-the-badge&logo=windows" />
   <img src="https://img.shields.io/badge/Linux-Kali,%20Ubuntu,%20Parrot,%20Debian-blue?style=for-the-badge&logo=linux" />
 </p>
 
-#### 👨‍💻 Programming
+####  Programming
 <p>
   <img src="https://img.shields.io/badge/C-Language-blue?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-Dynamic-orange?style=for-the-badge&logo=javascript" />
 </p>
 
-#### 🛡️ Cybersecurity Arsenal
+####  Cybersecurity Arsenal
 <p>
   <img src="https://img.shields.io/badge/Metasploit-Framework-blue?style=for-the-badge&logo=metasploit" />
   <img src="https://img.shields.io/badge/SET-Social_Engineering_Toolkit-blue?style=for-the-badge" />
@@ -84,7 +81,7 @@
   <img src="https://img.shields.io/badge/Fern_WiFi_Cracker-Active-green?style=for-the-badge&logo=wifi" />
 </p>
 
-#### 🧰 Development Tools
+####  Development Tools
 <p>
   <img src="https://img.shields.io/badge/VSCode-Editor-blue?style=for-the-badge&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/PyCharm-IDE-blue?style=for-the-badge&logo=pycharm" />
@@ -103,9 +100,9 @@
 
 ---
 
-### 🌐 Web Projects
+###  Web Projects
 
-- 🌟 [**Projects Library**](https://mishraharshit.vercel.app/live.html)  
+-  [**Projects Library**](https://mishraharshit.vercel.app/live.html)  
   Explore a collection of open-source web and mobile apps.
 
 - 💘 [**AstroLove**](https://astrolove.vercel.app/)  
@@ -119,7 +116,7 @@
 
 ---
 
-### 🎓 Certifications
+###  Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/4298d4e7-7f68-42d8-b71d-d0c4222b4fb1/public_url">
@@ -141,7 +138,7 @@
 
 ---
 
-### 📬 Connect With Me
+###  Connect With Me
 
 <p>
   <a href="https://mishraharshit.vercel.app"><img src="https://img.shields.io/badge/Website-Harshit%20Mishra-blue?style=for-the-badge&logo=vercel" /></a>
@@ -152,9 +149,9 @@
 
 ---
 
-> 🔐 _"Hack the Code. Secure the World."_
+>  _"Hack the Code. Secure the World."_
 
-<!-- ✅ SEO Meta Tags for Harshit Mishra -->
+<!--   SEO Meta Tags for Harshit Mishra -->
 
 <!-- Basic Meta -->
 <meta name="title" content="Harshit Mishra – Software Developer | Ethical Hacker | Cybersecurity Expert | AI Builder">
