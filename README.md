@@ -38,7 +38,8 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishra9759harshit&layout=compact&theme=tokyonight&langs_count=10&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mishra9759harshit&layout=compact&theme=tokyonight&langs_count=10
+" width="48%" />
 </p>
 
 <p align="center">
