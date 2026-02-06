@@ -37,11 +37,6 @@
 </p>
 
 <p align="center">
-  
-  <img src="https://img.shields.io/github/languages/top/mishra9759harshit/vscode-portfolio" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishra9759harshit&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
