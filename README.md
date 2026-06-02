@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/981d2f4a-e72a-4509-91a6-e9b47b9000fa" width="auto" style="border-radius: 50%; margin: 10px;" />
+  <img width="auto" height="793" alt="banner" src="https://github.com/user-attachments/assets/6d8a9cf5-9765-4fe0-902a-23851c7758f5"  style="border-radius: 50%; margin: 10px;" />
+
 </p>
 
 <h1 align="center">Harshit Mishra</h1>
